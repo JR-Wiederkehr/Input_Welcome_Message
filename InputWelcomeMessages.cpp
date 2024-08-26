@@ -8,7 +8,7 @@ int main(int nNumberofArgs, char* pszArgs[]){
     string name;
     cout << "Please input your name: ";
     cin >> name;
-    cout << "\n Hello, " + name + "\n Welcome to zyBooks! \n";
+    cout << "\nHello, " + name + "\nWelcome to zyBooks!\n";
 
     //The following code halts the .exe file so that the user can read the output.
     system("PAUSE");
